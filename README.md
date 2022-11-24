@@ -28,3 +28,7 @@
 [makerslab_logo_yellow_400_400 <br> ![makerslab_logo_yellow_400_400](img/makerslab_logo_yellow_400_400.png)](img/makerslab_logo_yellow_400_400.png)
 
 [makerslab_wallpaper_black_1280_720 <br> ![makerslab_wallpaper_black_1280_720](img/makerslab_wallpaper_black_1280_720.jpg)](img/makerslab_wallpaper_black_1280_720.jpg)
+
+[makerslab_wallpaper_grey_1280_720 <br> ![makerslab_wallpaper_grey_1280_720](img/makerslab_wallpaper_grey_1280_720.jpg)](img/makerslab_wallpaper_grey_1280_720.jpg)
+
+[makerslab_wallpaper_yellow_1280_720 <br> ![makerslab_wallpaper_yellow_1280_720](img/makerslab_wallpaper_yellow_1280_720.jpg)](img/makerslab_wallpaper_yellow_1280_720.jpg)
