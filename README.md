@@ -5,11 +5,19 @@
 
 [makerslab_logo_black_72_72 <br> ![makerslab_logo_black_72_72](img/makerslab_logo_black_72_72.png)](img/makerslab_logo_black_72_72.png)
 
+[makerslab_logo_black_simple_72_72 <br> ![makerslab_logo_black_simple_72_72](img/makerslab_logo_black_simple_72_72.png)](img/makerslab_logo_black_simple_72_72.png)
+
 [makerslab_logo_black_170_170 <br> ![makerslab_logo_black_170_170](img/makerslab_logo_black_170_170.png)](img/makerslab_logo_black_170_170.png)
+
+[makerslab_logo_black_simple_170_170 <br> ![makerslab_logo_black_simple_170_170](img/makerslab_logo_black_simple_170_170.png)](img/makerslab_logo_black_simple_170_170.png)
 
 [makerslab_logo_black_300_300 <br> ![makerslab_logo_black_300_300](img/makerslab_logo_black_300_300.png)](img/makerslab_logo_black_300_300.png)
 
+[makerslab_logo_black_simple_300_300 <br> ![makerslab_logo_black_simple_300_300](img/makerslab_logo_black_simple_300_300.png)](img/makerslab_logo_black_simple_300_300.png)
+
 [makerslab_logo_black_400_400 <br> ![makerslab_logo_black_400_400](img/makerslab_logo_black_400_400.png)](img/makerslab_logo_black_400_400.png)
+
+[makerslab_logo_black_simple_400_400 <br> ![makerslab_logo_black_simple_400_400](img/makerslab_logo_black_simple_400_400.png)](img/makerslab_logo_black_simple_400_400.png)
 
 [makerslab_logo_grey_72_72 <br> ![makerslab_logo_grey_72_72](img/makerslab_logo_grey_72_72.png)](img/makerslab_logo_grey_72_72.png)
 
