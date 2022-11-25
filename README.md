@@ -1,6 +1,8 @@
 # [logo.makerslab.pl](http://logo.makerslab.pl)
 
 
+[makerslab_colors <br> ![makerslab_colors](img/makerslab_colors.pdf)](img/makerslab_colors.pdf)
+
 [makerslab_LI_background <br> ![makerslab_LI_background](img/makerslab_LI_background.png)](img/makerslab_LI_background.png)
 
 [makerslab_logo_black_72_72 <br> ![makerslab_logo_black_72_72](img/makerslab_logo_black_72_72.png)](img/makerslab_logo_black_72_72.png)
