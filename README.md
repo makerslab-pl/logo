@@ -1,5 +1,6 @@
 # [logo.makerslab.pl](http://logo.makerslab.pl)
 
++ [Editing logo/README.md at main · makerslab-pl/logo](https://github.com/makerslab-pl/logo/edit/main/README.md)
 
 [makerslab_colors pdf](img/makerslab_colors.pdf)
 
