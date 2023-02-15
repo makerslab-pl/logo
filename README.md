@@ -1,4 +1,4 @@
-# [logo.makerslab.pl](http://logo.makerslab.pl)
+# [logo.makerslab.pl](http://logo.makerslab.pl) - [edit](https://github.com/makerslab-pl/logo/edit/main/README.md)
 
 + [Editing logo/README.md at main · makerslab-pl/logo](https://github.com/makerslab-pl/logo/edit/main/README.md)
 
@@ -95,3 +95,9 @@
 [makerslab_wallpaper_yellow_2560_1440 <br> ![makerslab_wallpaper_yellow_2560_1440](img/makerslab_wallpaper_yellow_2560_1440.jpg)](img/makerslab_wallpaper_yellow_2560_1440.jpg)
 
 [makerslab_wallpaper_yellow_3840_2160 <br> ![makerslab_wallpaper_yellow_3840_2160](img/makerslab_wallpaper_yellow_3840_2160.jpg)](img/makerslab_wallpaper_yellow_3840_2160.jpg)
+
+
+---
+
++ [edit](https://github.com/makerslab-pl/logo/edit/main/README.md)
+
