@@ -2,6 +2,8 @@
 
 + [Editing logo/README.md at main · makerslab-pl/logo](https://github.com/makerslab-pl/logo/edit/main/README.md)
 
+Logo powstało dzięki zaangażowaniu Mateusza Wiktor
+
 ### PDF
 
 + [makerslab_colors pdf](img/makerslab_colors.pdf)
@@ -79,6 +81,9 @@
 
 [makerslab_nightly_logo_400_400 <br> ![makerslab_nightly_logo_400_400](img/makerslab_nightly_logo_400_400.png)](img/makerslab_nightly_logo_400_400.png)
 
+
+### JPG
+
 [makerslab_wallpaper_black_1280_720 <br> ![makerslab_wallpaper_black_1280_720](img/makerslab_wallpaper_black_1280_720.jpg)](img/makerslab_wallpaper_black_1280_720.jpg)
 
 [makerslab_wallpaper_black_1920_1080 <br> ![makerslab_wallpaper_black_1920_1080](img/makerslab_wallpaper_black_1920_1080.jpg)](img/makerslab_wallpaper_black_1920_1080.jpg)
@@ -102,6 +107,7 @@
 [makerslab_wallpaper_yellow_2560_1440 <br> ![makerslab_wallpaper_yellow_2560_1440](img/makerslab_wallpaper_yellow_2560_1440.jpg)](img/makerslab_wallpaper_yellow_2560_1440.jpg)
 
 [makerslab_wallpaper_yellow_3840_2160 <br> ![makerslab_wallpaper_yellow_3840_2160](img/makerslab_wallpaper_yellow_3840_2160.jpg)](img/makerslab_wallpaper_yellow_3840_2160.jpg)
+
 
 
 ---
