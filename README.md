@@ -2,7 +2,14 @@
 
 + [Editing logo/README.md at main · makerslab-pl/logo](https://github.com/makerslab-pl/logo/edit/main/README.md)
 
-[makerslab_colors pdf](img/makerslab_colors.pdf)
+### PDF
+
++ [makerslab_colors pdf](img/makerslab_colors.pdf)
++ [makerslab_grey_full_400_400.pdf](img/makerslab_grey_full_400_400.pdf)
++ [makerslab_grey_simple_400_400.pdf](img/makerslab_grey_simple_400_400.pdf)
+
+
+### PNG
 
 [makerslab_LI_background <br> ![makerslab_LI_background](img/makerslab_LI_background.png)](img/makerslab_LI_background.png)
 
